@@ -13,4 +13,4 @@ namespace: staging
 images:
 - name: laravel-app
   newName: asia-southeast1-docker.pkg.dev/sandbox-wahyu-anggana/kci-dev/laravel-app
-  newTag: c575594
+  newTag: 2f69738
